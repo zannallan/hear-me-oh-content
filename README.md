@@ -1,5 +1,5 @@
 ---
-summary: "Apply accessibility best practices to some HTML content to make it better for everybody."
+summary: "Apply content accessibility best-practices while writing semantically appropriate HTML."
 time: "1 hour"
 deliverables: "1 HTML file, images"
 ---
